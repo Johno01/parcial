@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Nintendot</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="row">
+            <h1 class="text-center">Esta es mi pÃ¡gina</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <div class="row">
+                    <div class="col-md-4"><img width="100%" src="https://png.pngtree.com/thumb_back/fw800/background/20230407/pngtree-bay-area-has-beautiful-natural-scenery-in-summer-image_2144433.jpg" alt=""></div>
+                    <div class="col-md-8">
+                        <h4>Titulo</h4>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum obcaecati, vel fugit
+                            asperiores consequuntur nam! Nemo magnam eveniet at aspernatur eos, sed eaque hic excepturi
+                            similique? Dolore ut asperiores amet.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-8">
+                        <h4>Titulo</h4>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum obcaecati, vel fugit
+                            asperiores consequuntur nam! Nemo magnam eveniet at aspernatur eos, sed eaque hic excepturi
+                            similique? Dolore ut asperiores amet.</p>
+                    </div>
+                    <div class="col-4"><img width="100%" src="https://png.pngtree.com/thumb_back/fw800/background/20230407/pngtree-bay-area-has-beautiful-natural-scenery-in-summer-image_2144433.jpg" alt=""></div>
+                    
+                </div>
+                <div class="row">
+                    <div class="col-4"><img width="100%" src="https://png.pngtree.com/thumb_back/fw800/background/20230407/pngtree-bay-area-has-beautiful-natural-scenery-in-summer-image_2144433.jpg" alt=""></div>
+                    <div class="col-8">
+                        <h4>Titulo</h4>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum obcaecati, vel fugit
+                            asperiores consequuntur nam! Nemo magnam eveniet at aspernatur eos, sed eaque hic excepturi
+                            similique? Dolore ut asperiores amet.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-12 col-md-6">
+                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae facere exercitationem inventore ipsam,
+                vero iusto neque numquam quia excepturi? Nemo, consequatur dolorum? Tempore illo natus repellendus sit
+                porro ipsam non!
+                Ratione voluptatibus a porro natus debitis saepe, omnis animi ipsum eum necessitatibus iste? Nisi
+                distinctio odit labore nobis, cumque ipsa, illo ad libero molestias architecto consequuntur, quae
+                tempora. Voluptatum, ipsa!
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
